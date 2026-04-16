@@ -4,7 +4,7 @@ Project Sentry is a full-stack smart home monitoring and control platform.
 It combines a React dashboard, a Node.js API, real-time Socket.IO updates, and ESP32 telemetry to help monitor power usage, WiFi state, and home security events.
 
 Project page: https://gunathkalpitha.github.io/IoT-sentry-project/
-
+ 
 ## Highlights
 
 - Real-time device status and sensor readings via Socket.IO
